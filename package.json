@@ -1,0 +1,19 @@
+{
+  "name": "nomadcoffee-backend",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "dev": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pjw0194/nomadcoffee-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pjw0194/nomadcoffee-backend/issues"
+  },
+  "homepage": "https://github.com/pjw0194/nomadcoffee-backend#readme"
+}
